@@ -10,7 +10,7 @@
 5.繪製ROC curve的圖
 
 # 結果
-！[ image ]（https://github.com/107AB0729/-/blob/main/1.png）\
+！[ image ](https://github.com/107AB0729/-/blob/main/1.png)\
 利用隨機森林決策樹model提取特徵的惡意軟件，\
 再用接收器操作特徵（ROC）曲線測量的是檢測器的真實陽性率（成功檢測到的惡意檔案的百分比）\
 和錯誤陽性率（被錯誤標記為惡意檔案的善意檔案的百分比）的變化。\
