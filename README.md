@@ -1,7 +1,7 @@
 # 資財三乙 107AB0729 林暐偵 期末報告
 
 # 步驟
-1.輸入並執行args.malware_paths、args.benignware_paths、args.evaluate\ 
+1.輸入並執行args.malware_paths、args.benignware_paths、args.evaluate \
 2.從malware_paths和benignware_paths內的檔案取得資料\
 3.以機器學習方式訓練提取特徵\
 4.使用隨機森林決策樹model來進行訓練\
